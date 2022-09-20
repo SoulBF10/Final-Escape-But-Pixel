@@ -1,0 +1,32 @@
+{
+	"storyName": "Final Escape",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "exe",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"finalescape",
+			"",
+			[
+				40,
+				20,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "finalescape"
+}
