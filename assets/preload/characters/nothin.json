@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-198,
+				-210
+			],
+			"anim": "yos",
+			"fps": 12,
+			"name": "nothin yos",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-198,
+				-210
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "nothin yos"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/nothin",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-bf-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		200,
+		255
+	],
+	"camera_position": [
+		-274,
+		-327
+	],
+	"sing_duration": 3.8,
+	"scale": 8.99999999999999
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "teensiebf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "teensiebf left sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "teensiebf right sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "teensiebf up sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "teensiebf down sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singLEFTmiss",
+			"fps": 15,
+			"name": "teensiebf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 15,
+			"name": "teensiebf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singUPmiss",
+			"fps": 15,
+			"name": "teensiebf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-210
+			],
+			"anim": "singDOWNmiss",
+			"fps": 15,
+			"name": "teensiebf down miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/teensiebf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		200,
+		255
+	],
+	"camera_position": [
+		-100,
+		-370
+	],
+	"sing_duration": 3.8,
+	"scale": 8.99999999999999
+}

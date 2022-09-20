@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "EXERun idle"
+		},
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EXERun up angy"
+		},
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EXERun down angy"
+		},
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EXERun right angy"
+		},
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EXERun left angy"
+		},
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "flashbang",
+			"loop": false,
+			"name": "EXERun angyflash"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/angyEXERun",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		215
+	],
+	"camera_position": [
+		-1370,
+		-1050
+	],
+	"sing_duration": 4.99999999999999,
+	"scale": 10
+}

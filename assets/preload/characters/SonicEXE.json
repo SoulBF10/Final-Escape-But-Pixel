@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SonicEXE right sing"
+		},
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SonicEXE left sing"
+		},
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SonicEXE up sing"
+		},
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SonicEXE down sing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "SonicEXE idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "breathing",
+			"fps": 6,
+			"name": "SonicEXE breathing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "fall",
+			"fps": 12,
+			"name": "SonicEXE fall",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "scary",
+			"fps": 14,
+			"name": "SonicEXE scary",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "wowie",
+			"fps": 12,
+			"name": "SonicEXE wowie",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SonicEXE",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		96,
+		255
+	],
+	"camera_position": [
+		-950,
+		-780
+	],
+	"sing_duration": 4.99999999999999,
+	"scale": 9
+}

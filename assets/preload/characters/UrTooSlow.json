@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "UrTooSlow idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "still",
+			"fps": 12,
+			"name": "UrTooSlow still",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "ha",
+			"fps": 12,
+			"name": "UrTooSlow ha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				100
+			],
+			"anim": "grab",
+			"fps": 18,
+			"name": "UrTooSlow grab",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "flash",
+			"indices": [],
+			"name": "UrTooSlow flash"
+		},
+		{
+			"offsets": [
+				-200,
+				100
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "tooslow",
+			"loop": false,
+			"name": "UrTooSlow tooslow"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/UrTooSlow",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		96,
+		255
+	],
+	"camera_position": [
+		-1160,
+		-980
+	],
+	"sing_duration": 4.99999999999999,
+	"scale": 9
+}

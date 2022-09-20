@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				150
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "EXERun idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "EXERun right sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "EXERun left sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				150
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "EXERun up sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				150
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "EXERun down sing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				150
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "flashbang",
+			"indices": [],
+			"name": "EXERun flashbang"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/EXERun",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		215
+	],
+	"camera_position": [
+		-1370,
+		-1050
+	],
+	"sing_duration": 4.99999999999999,
+	"scale": 10
+}
