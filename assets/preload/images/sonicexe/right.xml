@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="right.png">
+<SubTexture name="right0000" x="0" y="0" width="1170" height="710" frameX="-1440" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0001" x="1170" y="0" width="1170" height="700" frameX="-1430" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0002" x="1140" y="710" width="1140" height="690" frameX="-1450" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0003" x="2340" y="0" width="1160" height="660" frameX="-1440" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0004" x="2340" y="660" width="1150" height="660" frameX="-1450" frameY="-410" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0005" x="2340" y="1320" width="1150" height="660" frameX="-1450" frameY="-410" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0006" x="1130" y="2100" width="1140" height="650" frameX="-1460" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0007" x="0" y="2100" width="1130" height="660" frameX="-1470" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0008" x="1130" y="1410" width="1130" height="670" frameX="-1460" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0009" x="0" y="1410" width="1130" height="690" frameX="-1470" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0010" x="0" y="710" width="1140" height="700" frameX="-1460" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="right0011" x="0" y="710" width="1140" height="700" frameX="-1460" frameY="-430" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>

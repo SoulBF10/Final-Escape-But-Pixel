@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shit.png">
+<SubTexture name="shit0000" x="2110" y="3040" width="2230" height="930" frameX="-380" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0001" x="4390" y="0" width="2220" height="920" frameX="-380" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0002" x="4390" y="1840" width="2190" height="910" frameX="-400" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0003" x="4390" y="2750" width="2160" height="900" frameX="-440" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0004" x="4390" y="920" width="2120" height="920" frameX="-480" frameY="-410" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0005" x="0" y="3040" width="2110" height="950" frameX="-490" frameY="-410" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0006" x="2230" y="2050" width="2110" height="960" frameX="-490" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0007" x="2170" y="1010" width="2130" height="1000" frameX="-470" frameY="-420" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0008" x="0" y="1030" width="2140" height="1020" frameX="-450" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0009" x="0" y="0" width="2170" height="1030" frameX="-430" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0010" x="2170" y="0" width="2220" height="1010" frameX="-380" frameY="-430" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="shit0011" x="0" y="2050" width="2230" height="990" frameX="-370" frameY="-430" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>

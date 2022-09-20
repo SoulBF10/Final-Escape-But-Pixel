@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="banner.png">
+<SubTexture name="banner0000" x="0" y="0" width="1680" height="730" frameX="-700" frameY="-1270" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="banner0001" x="0" y="730" width="1660" height="720" frameX="-700" frameY="-1280" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="banner0002" x="1680" y="0" width="1640" height="710" frameX="-730" frameY="-1290" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>

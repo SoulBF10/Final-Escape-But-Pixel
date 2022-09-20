@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NIC.png">
+<SubTexture name="NIC0000" x="0" y="0" width="800" height="700" frameX="-1650" frameY="-990" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0001" x="800" y="0" width="800" height="700" frameX="-1650" frameY="-980" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0002" x="0" y="700" width="830" height="700" frameX="-1630" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0003" x="1600" y="0" width="850" height="700" frameX="-1620" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0004" x="1600" y="0" width="850" height="700" frameX="-1620" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0005" x="1600" y="0" width="850" height="700" frameX="-1620" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0006" x="0" y="700" width="830" height="700" frameX="-1630" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0007" x="1600" y="700" width="800" height="690" frameX="-1650" frameY="-990" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0008" x="0" y="1400" width="800" height="690" frameX="-1650" frameY="-1000" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="NIC0009" x="0" y="1400" width="800" height="690" frameX="-1650" frameY="-1000" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>

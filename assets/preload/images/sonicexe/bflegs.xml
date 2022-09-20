@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bflegs.png">
+<SubTexture name="bflegs0000" x="0" y="0" width="270" height="170" frameX="-130" frameY="-380" frameWidth="600" frameHeight="600" />
+<SubTexture name="bflegs0001" x="270" y="0" width="180" height="110" frameX="-180" frameY="-420" frameWidth="600" frameHeight="600" />
+<SubTexture name="bflegs0002" x="0" y="0" width="270" height="170" frameX="-130" frameY="-380" frameWidth="600" frameHeight="600" />
+<SubTexture name="bflegs0003" x="270" y="0" width="180" height="110" frameX="-180" frameY="-420" frameWidth="600" frameHeight="600" />
+<SubTexture name="bflegs0004" x="0" y="0" width="270" height="170" frameX="-130" frameY="-380" frameWidth="600" frameHeight="600" />
+<SubTexture name="bflegs0005" x="270" y="0" width="180" height="110" frameX="-180" frameY="-420" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

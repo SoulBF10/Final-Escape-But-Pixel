@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SONIC.png">
+<SubTexture name="SONIC0000" x="0" y="0" width="2050" height="700" frameX="-400" frameY="-990" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0001" x="0" y="700" width="2050" height="700" frameX="-400" frameY="-980" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0002" x="2050" y="0" width="2070" height="700" frameX="-390" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0003" x="0" y="1400" width="2080" height="700" frameX="-390" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0004" x="0" y="1400" width="2080" height="700" frameX="-390" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0005" x="0" y="1400" width="2080" height="700" frameX="-390" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0006" x="2050" y="0" width="2070" height="700" frameX="-390" frameY="-970" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0007" x="2050" y="700" width="2050" height="690" frameX="-400" frameY="-990" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0008" x="0" y="2100" width="2050" height="690" frameX="-400" frameY="-1000" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SONIC0009" x="0" y="2100" width="2050" height="690" frameX="-400" frameY="-1000" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>

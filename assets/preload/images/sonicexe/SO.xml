@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SO.png">
+<SubTexture name="SO0000" x="0" y="0" width="530" height="420" frameX="-400" frameY="-1260" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0001" x="530" y="0" width="530" height="400" frameX="-400" frameY="-1270" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0002" x="0" y="420" width="550" height="380" frameX="-390" frameY="-1280" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0003" x="1060" y="0" width="550" height="360" frameX="-390" frameY="-1290" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0004" x="1060" y="0" width="550" height="360" frameX="-390" frameY="-1290" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0005" x="1060" y="0" width="550" height="360" frameX="-390" frameY="-1290" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0006" x="0" y="420" width="550" height="380" frameX="-390" frameY="-1280" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0007" x="530" y="0" width="530" height="400" frameX="-400" frameY="-1270" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0008" x="0" y="0" width="530" height="420" frameX="-400" frameY="-1260" frameWidth="3000" frameHeight="2000" />
+<SubTexture name="SO0009" x="0" y="0" width="530" height="420" frameX="-400" frameY="-1260" frameWidth="3000" frameHeight="2000" />
+</TextureAtlas>
